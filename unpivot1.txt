@@ -1,0 +1,3 @@
+Company	Intel	Nokia	Sony	Moto	Oppo	Vivo
+Zone	East	West	North	East	South	West
+Sales	3432	8788	5757	3545	4654	7767	
